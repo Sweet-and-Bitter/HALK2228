@@ -1,0 +1,5 @@
+ananas = "ананас"
+banan = "банан"
+while ananas == banan: 
+  print ("ананас банан")
+  pass
